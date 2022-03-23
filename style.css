@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Helvetica;
+}
+
+#logo {
+    width: 250px;
+    /* margin-top: 20px; */
+    border-radius: 5px;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    /* text-align: center; */
+    background: linear-gradient(90deg, rgb(181, 253, 170), rgb(93, 199, 77));
+}
+
