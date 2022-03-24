@@ -7,6 +7,7 @@ body {
     width: 250px;
     /* margin-top: 20px; */
     border-radius: 5px;
+    border: solid 2px rgb(247, 248, 247);
 }
 
 h1 {
